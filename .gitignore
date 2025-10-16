@@ -20,4 +20,4 @@ data/
 
 # logs
 logs/
-*.log
+*.log.env
