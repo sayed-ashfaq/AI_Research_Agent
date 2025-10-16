@@ -10,3 +10,13 @@ wheels/
 .venv
 .idea
 
+# environment variables
+.env
+
+# data
+data/
+*/data/
+
+# logs
+logs/
+*.log
